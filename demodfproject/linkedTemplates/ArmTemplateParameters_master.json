@@ -5,9 +5,6 @@
 		"factoryName": {
 			"value": "demodfproject"
 		},
-		"AzureBlobStorage1_connectionString": {
-			"value": ""
-		},
 		"AzureBlobStorage2_connectionString": {
 			"value": ""
 		},
