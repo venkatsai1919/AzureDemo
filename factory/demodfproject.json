@@ -1,0 +1,9 @@
+{
+	"name": "demodfproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e96cd28-6e2d-4c81-bcb5-6e0f92c8d8e1",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
